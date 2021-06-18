@@ -5,7 +5,7 @@ body {
 #img a {
 	display: block;
 	font-family: 'Product Sans';
-	font-weight: regular;
+	font-weight: normal;
 	text-decoration: none;
 	text-align: right;
 	color: rgb(39, 78, 207);
